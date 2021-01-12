@@ -1,0 +1,5 @@
+.vscode/
+venv/
+*.csv
+ml-100k/
+Book
